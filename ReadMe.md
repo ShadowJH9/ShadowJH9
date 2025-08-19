@@ -1,5 +1,5 @@
 # 💫 About Me:
-NOME: José Henrique Da Cruz Rodrigues<br>Idade: 19 anos<br><br>Estudante de Back end<br>Estou a procura de estágio<br>Linguagem utilizada: Python
+NOME: José Henrique Da Cruz Rodrigues<br>Idade: 21 anos<br><br>Estudante de Engenharia de Software <br>Estou a procura de estágio<br>
 
 
 ## 🌐 Socials:
