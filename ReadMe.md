@@ -1,5 +1,5 @@
 # 💫 About Me:
-NOME: José Henrique Da Cruz Rodrigues<br>Idade: 21 anos<br><br>Estudante de Engenharia de Software <br>Estou a procura de estágio<br>
+NOME: José Henrique Da Cruz Rodrigues<br>Idade: 22 anos<br><br>Estudante de Engenharia de Software <br>Estou a procura de estágio<br>
 
 
 ## 🌐 Socials:
